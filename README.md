@@ -27,15 +27,19 @@
 
 ### solve the errors : 
 
-1. for fps related issue fellow this link :  
+1. for fps related issue install fellowing version of the library : 
+pip install imageio==2.19.3
+pip install imageio-ffmpeg==0.4.7 
+
+or for more fellow this lnk 
 https://github.com/OpenTalker/SadTalker/issues/276   \
 
 
-2. if np.long related issue 
+3. if np.long related issue 
 change the version of numpy to numpy==1.23.0 
 
 
-3. for ValueError: input_path must be a valid path to video/image file
+4. for ValueError: input_path must be a valid path to video/image file
 follow it I give instructions there : 
 
 https://github.com/OpenTalker/SadTalker/issues/672
