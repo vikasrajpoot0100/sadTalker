@@ -48,6 +48,3 @@ https://github.com/OpenTalker/SadTalker/issues/672
 
 
 
-// [![Watch the video](examples/source_image/ramveer.jpeg)](/examples/generated_video/ramveer.mp4)
-
-
