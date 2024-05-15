@@ -27,9 +27,11 @@
 
 ### solve the errors : 
 
-1. for fps related issue install fellowing version of the library : 
+1. for fps related issue install fellowing version of the library :
+```
 pip install imageio==2.19.3
 pip install imageio-ffmpeg==0.4.7 
+```
 
 or for more fellow this lnk 
 https://github.com/OpenTalker/SadTalker/issues/276   \
