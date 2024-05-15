@@ -22,7 +22,7 @@
   ### Coqui TTS is optional for gradio demo. 
   ### pip install TTS
 
-  ```  fda
+  ```
 
 
 ### solve the errors : 
