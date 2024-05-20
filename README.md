@@ -1,6 +1,8 @@
 
 ### Linux/Unix
 
+# Updating the SadTalker submodule 
+
 1. Install [Anaconda](https://www.anaconda.com/), Python and `git`.
 
 2. Creating the env and install the requirements.
